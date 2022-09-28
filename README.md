@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cab-Code
 - 👀 I’m interested in web development and gameDev
-- 🌱 I’m currently learning VueCli 3 and Node.js
+- 🌱 I’m currently learning SQL and Node.js
 - 💞️ I’m looking to collaborate on small and/or open source projects
 - 📫 How to reach me you can find me on instagram like: @estuardo_acc
 
